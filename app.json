@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "helpdesk",
+    "slug": "helpdesk",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "helpdesk"
+}
