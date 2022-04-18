@@ -28,8 +28,6 @@ App to manage maintenance calls. App to manage maintenance calls. This applicati
 
 ## Running
 
-## Running
-
 You have two branchs. The master you have project base with layout design only. And, the done you have the project finished with charts implemented.
 
 Clone this project and start with Expo: 
